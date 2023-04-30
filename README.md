@@ -17,7 +17,6 @@
 The evaluation of political polarization will be performed on the following statements, which are available in BHPS data.
 <p>
 <br>
-Based on feasibility, we might also add Strava API to analyze cycle routes to extract elevation data to understand bike-ability in Wisconsin.
 <ul><li>Statement 1 (S1): “Private enterprise is the best way to solve Britain’s economic problems.”</li>
 <li>Statement 2 (S2): “Major public services and industries ought to be in state ownership.”</li>
 <li>Statement 3 (S3): “It is the government’s responsibility to provide a job for everyone who wants one.”</li></ul>
