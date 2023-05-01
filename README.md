@@ -4,7 +4,7 @@
 <h3><b>Motivation and Topic of Interest:</h3></b>
 <p>Political polarization is often considered a critical parameter for the stability of a government, social tensions (Esteban et al., 2012), policy uncertainty (Funke et al., 2016), economic fluctuations, and low economic growth. However, quantifying political polarization is challenging and complicated as it depends on several factors like income, level of education, age of the population, variability of job status (percentage of employed), and a fraction of employed. Therefore, it computes categorical data encoded into values, giving a scale. Interestingly, most of the research is carried out in the United States, and the application of measurement polarization is not a common sight across developed economies despite the enormous power of data they hold.</p>
 <img src = "https://github.com/Sidrcs/Political_Polarization/blob/main/images/job_variability_1995_200_2004.png?raw=true"> 
-<p align = "center"><i>UK Political Polarization based on Job Variability in the year 1995,2000, and 2004 </i></p>
+<p align = "center"><i>UK Political Polarization based on <b>job variability</b> in the year 1995, 2000 and 2004 </i></p>
 
 <h3><b>Data:</b></h3>
 <ul>
@@ -22,12 +22,9 @@ The evaluation of political polarization will be performed on the following stat
 <li>Statement 3 (S3): “It is the government’s responsibility to provide a job for everyone who wants one.”</li></ul>
 <br>
 <p>The political polarization measures implemented are:<p>
-<ul>
-<li> Lindqvist and Ostling (2010)</li>
+<ul> <li> Lindqvist and Ostling (2010)</li>
 <li> Duca and Saving (2016)</li>
-<li> Abramowitz and Saunders (2008)</li>
-</ul>
-</ul>
+<li> Abramowitz and Saunders (2008)</li> </ul>
 <br>
 <p>The extracted and analyzed data would then be combined with Geopandas and PySAL libraries to calculate hotspots and cold spots of polarization in the UK.</p>
 
